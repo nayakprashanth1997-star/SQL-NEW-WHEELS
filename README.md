@@ -13,6 +13,7 @@ As a data analyst, you see that there is an array of questions that are being as
  
 
 Data Description
+
 The data provided has
 
 Attributes on the vehicles New-Wheels sells - What are the make, model, and year? What is the price point?
